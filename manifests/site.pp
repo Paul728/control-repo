@@ -1,3 +1,3 @@
-node 'puppet-server' {
+node 'puppet-server.pault.it' {
   include role::master
 }
